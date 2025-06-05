@@ -32,7 +32,7 @@ Hatalar anlık olarak tespit edilir ve kullanıcıya görsel olarak bildirilir. 
 
 Projeyi canlı olarak izlemek ve nasıl çalıştığını görmek için videoyu izleyin:
 
-👉 [Proje Tanıtım ve Kullanım Videosu](https://youtu.be/VIDEO_LINKINIZ)
+👉 [Proje Tanıtım ve Kullanım Videosu](https://www.youtube.com/watch?v=rvxFixe-ksM)
 
 ---
 
