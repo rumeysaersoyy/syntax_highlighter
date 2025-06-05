@@ -1,0 +1,33 @@
+# Doğru atamalar
+x = 5
+y = 3.14
+z = "Merhaba"
+flag = True
+
+# Doğru if ifadeleri
+if x > 3:
+    print(x)
+
+if flag == True:
+    print("Bayrak doğru")
+
+# İç içe if
+if x > 1:
+    if y < 10:
+        print("Nested if çalıştı")
+
+print("Program sonu")
+
+# Hatalı: eksik iki nokta (:)
+if x < y
+    print("Bu satır hatalı")
+
+# Hatalı: girinti yok
+if True:
+print("Girinti eksik")
+
+# Hatalı: eşittir üç tane
+x === 7
+
+# Hatalı: bilinmeyen token
+y = 10
