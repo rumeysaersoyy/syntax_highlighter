@@ -79,6 +79,11 @@ print("Bitti")
 ![Hata Gösterimi](resimler/2.png)
 
 ---
+## 📄 Proje Raporu
+
+Proje detaylarını içeren PDF raporunu buradan inceleyebilirsiniz:
+
+📥 [Programlama Dilleri Proje Raporu (PDF)](programlamadillerirapor.pdf)
 
 ## 👩‍💻 Geliştirici
 
