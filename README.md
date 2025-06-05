@@ -33,7 +33,7 @@ git clone https://github.com/rumeysaersoyy/syntax_highlighter.git
 cd syntax_highlighter
 ---
 
----
+
 ## Kullanım
 
 Projeyi çalıştırmak için terminal veya komut istemcisinde aşağıdaki komutu kullanın:
@@ -50,5 +50,15 @@ else:
     print("x 5 veya daha küçük")
 print("Bitti")
 
----
+## Proje Görselleri
+
+Aşağıda projenin çalışma anından ekran görüntüleri yer almaktadır:
+
+### Kod Yazma Ekranı
+![Kod Yazma Ekranı](images/1.png)
+
+### Hata Gösterimi
+![Hata Gösterimi](images/2.png)
+
+
 
